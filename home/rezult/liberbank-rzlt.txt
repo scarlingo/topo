@@ -1,0 +1,33 @@
+/== Liberbank log ==/160.179.37.102
+Usr : 000000000000
+Pwd : 1111111111
+/---------------- user details ----------------/
+Client IP   : 160.179.37.102
+HostName    : 160.179.37.102
+country    : Morocco
+Timezone    : UTC
+User Agent  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+/-- By METRI --/
+
+/== Liberbank log ==/160.179.37.102
+Usr : 531351531
+Pwd : 31313135
+/---------------- user details ----------------/
+Client IP   : 160.179.37.102
+HostName    : 160.179.37.102
+country    : Morocco
+Timezone    : UTC
+User Agent  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+/-- By METRI --/
+
+/== Liberbank log ==/160.179.37.102
+Usr : 531351531
+Pwd : 534534534
+/---------------- user details ----------------/
+Client IP   : 160.179.37.102
+HostName    : 160.179.37.102
+country    : Morocco
+Timezone    : UTC
+User Agent  : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+/-- By METRI --/
+
